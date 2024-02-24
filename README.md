@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+  
   
 
 ### <div align="center">I'm Hlobi, a Fronted freelance developer  👨‍💻 and Technical writer,  passionate about building beautiful user interfaces and translating complex code to easy and understand text.🚀</div>  
