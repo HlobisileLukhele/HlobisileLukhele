@@ -1,7 +1,7 @@
   
   
 
-### <div align="center">I'm Hlobi, a Fronted freelance developer  👨‍💻 and Technical writer,  passionate about building beautiful user interfaces and translating complex code to easy and understand text.🚀</div>  
+### <div align="center">I'm Hlobi, a Fronted developer  👨‍💻 and Technical writer,  passionate about building beautiful user interfaces and translating complex code to easy and understand text.🚀</div>  
   
 
 - 🔭 I’m currently working on cool small business projects  
